@@ -1,0 +1,6 @@
+{
+  "name": "Chess",
+  "description": "A fully interactive chess game with a polished responsive board, Player vs. Player mode, a local computer opponent, move history, and captured pieces tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
